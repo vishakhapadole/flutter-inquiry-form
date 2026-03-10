@@ -9,14 +9,6 @@ This project implements a reusable custom button component in Flutter.
 - Clean architecture
 - Follows SOLID principles
 
-## Project Structure
-lib/
- ├── widgets/
- │    └── reusable_button.dart
- ├── screens/
- │    └── home_screen.dart
- └── main.dart
-
 ## Usage Example
 ReusableButton(
   text: "Submit",
