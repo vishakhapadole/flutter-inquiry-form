@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35180494234",
+    "project_id": "flutter-inquiry-form",
+    "storage_bucket": "flutter-inquiry-form.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35180494234:android:e11487d6e6e2391307ce23",
+        "android_client_info": {
+          "package_name": "com.example.reusable_button_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIRcwm46Zbg-y3vGd9-NZY10Y7cxKK6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
